@@ -16,7 +16,9 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou professor de Matemática com mestrado em andamento, e estou construindo uma nova carreira na área de tecnologia. Buscando sempre aprender mais coisas para evoluir e conseguir ingressar nessa área.
+Sou professor de Matemática com mestrado em andamento, e estou em transição de carreira para a área de tecnologia.
+Aluno do curso de Engenahria de Software na Uninter - 1° Período
+Trilhando esse novo caminho buscando aprender a cada processo e motivado a continuar.
 
 ```python
 samuel = {
