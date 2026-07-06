@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner dinâmico com texto animado -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vlinemid=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Samuel+%F0%9F%91%8B;Professor+%E2%86%92+Desenvolvedor;Apaixonado+por+c%C3%B3digo+e+l%C3%B3gica)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vlinemid=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Samuel+%F0%9F%91%8B;Professor+%E2%86%92+Desenvolvedor;Estudante+de+c%C3%B3digos+e+l%C3%B3gica)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou professor de Matemática com mestrado em andamento, e estou em transição de carreira para a área de tecnologia.
+Sou professor de Matemática com mestrado em andamento e estou em transição de carreira para a área de tecnologia.
 Aluno do curso de Engenahria de Software na Uninter - 1° Período
 Trilhando esse novo caminho buscando aprender a cada processo e motivado a continuar.
 
