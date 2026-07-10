@@ -17,15 +17,15 @@
 ## 👨‍💻 Sobre mim
 
 Sou professor de Matemática concursado na Sedu ES com mestrado em andamento e estou em transição de carreira para a área de tecnologia.
-Aluno do curso de Engenahria de Software na Uninter - 1° Período
+Aluno do curso de Engenharia de Software na Uninter - 1° Período
 Trilhando esse novo caminho buscando aprender a cada processo e motivado a continuar.
 
 ```python
 samuel = {
-    "formação":   ["Lic. Matemática", "Mestrado em Ed. Matemática (em andamento) Prev 10/2026"],
-    "estudando":  ["Graduação em Engenharia de Software", "Python", "Git & GitHub"],
-    "objetivo":   "Desenvolvedor Backend Python",
-    "diferencial": "Professor de Matemática → raciocínio lógico e didática aplicados a código 🧠"
+    "formação": ["Lic. Matemática", "Mestrado em Ed. Matemática (em andamento) - Prev 10/2026"],
+    "estudando": ["Graduação em Engenharia de Software", "Python", "Git & GitHub"],
+    "objetivo": "Desenvolvedor Backend Python",
+    "diferencial": "Professor de Matemática → raciocínio lógico e didática aplicados a código "
 }
 ```
 
