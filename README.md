@@ -58,7 +58,7 @@ samuel = {
 <div align="center">
 
 [![Sistema de Finanças](https://github-readme-stats.vercel.app/api/pin/?username=samuel-svaz-dev&repo=sistema_de_financas&theme=tokyonight&border_color=00D4FF)](https://github.com/samuel-svaz-dev/sistema_de_financas)
-[![Exercícios Python](https://github-readme-stats.vercel.app/api/pin/?username=samuel-svaz-dev&repo=exercicios_python&theme=tokyonight&border_color=00D4FF)](https://github.com/samuel-svaz-dev/exercicios_python)
+[![Estudos de POO em Python](https://github-readme-stats.vercel.app/api/pin/?username=samuel-svaz-dev&repo=python-poo-estudos&theme=tokyonight&border_color=00D4FF)](https://github.com/samuel-svaz-dev/python-poo-estudos)
 
 </div>
 
